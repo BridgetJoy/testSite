@@ -202,7 +202,7 @@ img.sizeImage:hover{
 
 
 
-@media screen and (min-width: 721px) and (max-width:990px) {
+@media only screen and (min-width: 721px) and (max-width:990px) {
 body {
     background-color: yellow;
 }
@@ -226,7 +226,7 @@ h1{
 }
 
 
-@media screen and (max-width: 720px) {
+@media only screen and (max-width: 720px) {
 body {
     background-color: lightgreen;
 }
